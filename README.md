@@ -1,5 +1,7 @@
 <p align="center">
   <font color="red">Pâyidar Official</font>
+  <hr/>
+    Official Github Account.
 </p>
 
 <div align="center">
