@@ -1,7 +1,7 @@
 <p align="center">
-  <font color="red">Pâyidar Official</font>
+  <font color="red">Pâyidar Official</font></p>
   <hr/>
-    Official Github Account.
+    <p align="center">Official Github Account.
 </p>
 
 <div align="center">
