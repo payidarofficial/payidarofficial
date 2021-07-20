@@ -15,7 +15,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payidarofficial6&count_private=true&show_icons=true&theme=dracula&hide_border=true" width="%100" height="150px" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=payidarofficial&count_private=true&show_icons=true&theme=dracula&hide_border=true" width="%100" height="150px" alt="stats" />
 </div>
 <br>
 <br>
