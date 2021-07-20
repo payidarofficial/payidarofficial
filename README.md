@@ -32,5 +32,5 @@
 <img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </div>
 <br>
-<br>
-<img align="center" alt="Durum" src="https://lanyard-profile-readme.vercel.app/api/842083130260848711" />
+<br><center>
+<img align="center" alt="Durum" src="https://lanyard-profile-readme.vercel.app/api/842083130260848711" /></center>
