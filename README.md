@@ -33,4 +33,4 @@
 </div>
 <br>
 <br>
-
+<img align="center" alt="Durum" src="https://lanyard-profile-readme.vercel.app/api/842083130260848711" />
