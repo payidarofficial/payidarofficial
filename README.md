@@ -8,12 +8,9 @@
 <br>
 <div align="center">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payidarofficial&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
+       <img src="https://github-readme-stats.vercel.app/api?username=payidarofficial&count_private=true&show_icons=true&theme=dracula&hide_border=true" width="%100" height="150px" alt="stats" />
 </div>
 <br>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payidarofficial&count_private=true&show_icons=true&theme=dracula&hide_border=true" width="%100" height="150px" alt="stats" />
-</div>
 <br>
 <br>
 <div align="center">
