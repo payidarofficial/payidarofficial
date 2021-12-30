@@ -1,7 +1,5 @@
-
+<p align="center">Ne İşin Var Burda?</p><br/>
 <p align="center">
-     Ne İşin Var Burda?<br/>
-     
      <img src="https://cdn.discordapp.com/attachments/925806764904034335/926126816698183720/tumblr_pggtj80g1J1w9d31m_540.gif" align="center"/>
   <br><br>
 <br>
