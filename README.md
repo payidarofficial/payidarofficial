@@ -1,5 +1,7 @@
 <p align="center">🌙 In short, I;</p>
-<p align="center">🪐 Hi, my name is Kadir. I have been working with software for almost 10 years. My interests are also listed below. I'm moving towards cyber security expertise and I'm having a lot of fun at it.</p><br/>
+<p align="center">🪐 Hi, my name is Kadir. I have been working with software for almost 10 years. My interests are also listed below. I'm moving towards cyber security expertise and I'm having a lot of fun at it.</p>
+<br/>
+<hr/>
 <br>
 <div align="center">
        <p>✨ GitHub statistics<p>
