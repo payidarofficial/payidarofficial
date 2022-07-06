@@ -1,4 +1,4 @@
-<p align="center">Ne İşin Var Burda?</p><br/>
+<p align="center">🪐 Hi, my name is Kadir. I have been working with software for almost 10 years. My interests are also listed below. I'm moving towards cyber security expertise and I'm having a lot of fun at it.</p><br/>
 <p align="center">
      <img src="https://cdn.discordapp.com/attachments/925806764904034335/926126816698183720/tumblr_pggtj80g1J1w9d31m_540.gif" align="center"/>
   <br><br>
@@ -14,17 +14,26 @@
 <br>
 <br>
 <div align="center">
-<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="center" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
-<img align="center" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>
-<img align="center" alt="Jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"/>
-<img align="center" alt="MongoDB" width="26px" style="border-radius: 50%;" src="https://img.icons8.com/color/452/mongodb.png"/> 
-<img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-</div>
+
+## 🔧 Languages and Tools
+11
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+12
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+13
+![CSS3](https://img.shields.io/badge/css3-%23E34F26.svg?style=for-the-badge&logo=css3&logoColor=white)
+14
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+15
+![SQL](https://img.shields.io/badge/sql-%23E34F26.svg?style=for-the-badge&logo=sql&logoColor=white)
+16
+![PHP](https://img.shields.io/badge/php-%23E34F26.svg?style=for-the-badge&logo=php&logoColor=white)
+17
+![PYTHON](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
+18
+![JAVA](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
+19
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 <br>
 <br><center>
 <img align="center" alt="Durum" src="https://lanyard-profile-readme.vercel.app/api/842083130260848711" /></center>
