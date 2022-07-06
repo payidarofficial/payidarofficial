@@ -1,27 +1,83 @@
-<div align="center">
-       🍁 In Short, I<br/>
-       🪐 Hi, my name is Kadir. I have been working with software for almost 10 years. My interests are also listed below. I'm moving towards cyber security expertise and I'm having a lot of fun at it.
-       <br/>
-       <hr/>
-       <br>
-</div>
-<div align="center">
-       ✨ GitHub statistics<br/>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payidarofficial&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" /><br/>
-       <img src="https://github-readme-stats.vercel.app/api?username=payidarofficial&count_private=true&show_icons=true&theme=dracula&hide_border=true" width="%100" height="150px" alt="stats" />
-<br>
-<hr/>
-<br>
-       </div>
-<div align="center">
+# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
+# WebApp
+<table>
+<tr>
+<td>
+  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+</td>
+</tr>
+</table>
 
-## 🔧 Languages and Tools
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%23E34F26.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Sql](https://img.shields.io/badge/sql-%23E34F26.svg?style=for-the-badge&logo=sql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23E34F26.svg?style=for-the-badge&logo=php&logoColor=white)
-![PYTHON](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+## Demo
+Here is a working live demo :  https://iharsh234.github.io/WebApp/
+
+
+## Site
+
+### Landing Page
+Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
+
+![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+
+### Query Filled Form
+![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
+
+### Charts
+![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
+![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
+![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
+
+
+## Mobile support
+The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
+
+![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
+
+
+
+
+## [Usage](https://iharsh234.github.io/WebApp/) 
+
+### Development
+Want to contribute? Great!
+
+To fix a bug or enhance an existing module, follow these steps:
+
+- Fork the repo
+- Create a new branch (`git checkout -b improve-feature`)
+- Make the appropriate changes in the files
+- Add changes to reflect the changes made
+- Commit your changes (`git commit -am 'Improve feature'`)
+- Push to the branch (`git push origin improve-feature`)
+- Create a Pull Request 
+
+### Bug / Feature Request
+
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iharsh234/WebApp/issues/new) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new). Please include sample queries and their corresponding results.
+
+
+## Built with 
+
+- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
+- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
+- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+
+
+## To-do
+- Add BSE (India) Symbol to the current App.
+- Decide comparison models of Stocks. (suggestions are most welcome).
+- Another WebApp, capable of comparing at least 10 stocks.
+
+## Team
+
+[![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
+---|---
+[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
+
+## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
+
+MIT © [Harsh Vijay ](https://github.com/iharsh234)
+
