@@ -9,7 +9,7 @@
        <img src="https://github-readme-stats.vercel.app/api?username=payidarofficial&count_private=true&show_icons=true&theme=dracula&hide_border=true" width="%100" height="150px" alt="stats" />
 </div>
 <br>
-<br>
+<hr/>
 <br>
 <div align="center">
 
@@ -23,6 +23,3 @@
 ![PYTHON](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-<br>
-<br><center>
-<img align="center" alt="Durum" src="https://lanyard-profile-readme.vercel.app/api/842083130260848711" /></center>
