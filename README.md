@@ -1,6 +1,7 @@
+<p align="center">🌙 In short, I</p>
 <p align="center">🪐 Hi, my name is Kadir. I have been working with software for almost 10 years. My interests are also listed below. I'm moving towards cyber security expertise and I'm having a lot of fun at it.</p><br/>
 <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/925806764904034335/926126816698183720/tumblr_pggtj80g1J1w9d31m_540.gif" align="center"/>
+     <img src="[https://cdn.discordapp.com/attachments/925806764904034335/926126816698183720/tumblr_pggtj80g1J1w9d31m_540.gif](http://3.bp.blogspot.com/-F2tT-xLQ7to/U4oCgXcUttI/AAAAAAAAHGA/dXi6LY6s2aM/s1600/renkliduvar.blogspot.com-ayrac-gifler-ay%C4%B1rac-gif-divider-gifs+(5).gif)" align="center"/>
   <br><br>
 <br>
 </p>
