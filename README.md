@@ -16,23 +16,14 @@
 <div align="center">
 
 ## 🔧 Languages and Tools
-11
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-12
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-13
 ![CSS3](https://img.shields.io/badge/css3-%23E34F26.svg?style=for-the-badge&logo=css3&logoColor=white)
-14
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-15
 ![SQL](https://img.shields.io/badge/sql-%23E34F26.svg?style=for-the-badge&logo=sql&logoColor=white)
-16
 ![PHP](https://img.shields.io/badge/php-%23E34F26.svg?style=for-the-badge&logo=php&logoColor=white)
-17
 ![PYTHON](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
-18
 ![JAVA](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
-19
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 <br>
 <br><center>
